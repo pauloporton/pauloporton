@@ -1,5 +1,5 @@
 ## Hi, I'm Paulo Porto 👋
-- Studying computer science at UFCG
+- Studying computer science at UFCG (1/9)
 - Learning more about python!!
 
 
@@ -9,8 +9,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=pauloporton&theme=dark&hide_border=true)<br/>
 
 
----
-[![](https://visitcount.itsvg.in/api?id=pauloporton&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
